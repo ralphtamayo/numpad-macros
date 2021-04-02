@@ -1,0 +1,30 @@
+{
+   "KEY_0": "xdotool key 'ctrl+s'",
+   "KEY_DOT": "xdotool key 'ctrl+e'",
+
+   "KEY_1": "xdotool key 'ctrl+x'",
+   "KEY_2": "xdotool key 'ctrl+c'",
+   "KEY_3": "xdotool key 'ctrl+v'",
+
+   "KEY_4": "xdotool key 'ctrl+z'",
+   "KEY_5": "xdotool key 'ctrl+y'",
+   "KEY_6": "xdotool key 'ctrl+a'",
+
+   "KEY_7": "xdotool key 'ctrl+w'",
+   "KEY_8": "xdotool key 'ctrl+shift+t'",
+   "KEY_9": "xdotool key 'ctrl+Tab'",
+
+   "KEY_KPENTER": "xdotool key Return",
+
+   "KEY_LEFT": "",
+   "KEY_UP": "",
+   "KEY_RIGHT": "",
+   "KEY_DOWN": "",
+
+   "KEY_INSERT": "code",
+   "KEY_HOME": "filezilla",
+   "KEY_PAGEUP": "bitwarden",
+   "KEY_DELETE": "gnome-terminal",
+   "KEY_END": "teams",
+   "KEY_PAGEDOWN": "spotify"
+}
